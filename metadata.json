@@ -1,0 +1,6 @@
+{
+  "name": "Dan Sai Adventure",
+  "description": "Dan Sai Adventure - A thrilling cultural platformer start screen, interactive controls customizer, and game preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
